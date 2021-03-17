@@ -9,4 +9,4 @@ function inOrder(currentNode){
 }
 
 
- inOrder = inOrder(Right branch), root node, inOrder(left branch) 
+ inOrder = inOrder(Right branch), root node, inOrder(left branch)

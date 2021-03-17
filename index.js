@@ -7,3 +7,6 @@ function inOrder(currentNode){
     inOrder(currentNode.right)
   }
 }
+
+
+ inOrder = inOrder(Right branch), root node, inOrder(left branch) 
